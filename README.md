@@ -1,6 +1,6 @@
 # {AMMAZEW PROJECT}
 #### {RESEARCH ON TRAFFIC ACCIDENTS IN KENYA}, {25th Nov 2021}
-#### By **{wendy Oira, Moses Kibet,Emmanuel Ndubi, Abigael Cherono, Zachariah Komu, Maureen Chepkirui}**
+#### By **{Wendy Oira, Moses Kibet, Emmanuel Ndubi, Abigael Cherono, Zachariah Komu, Maureen Chepkirui}**
 ## Description
 This is the final project for group AMMAZEW as a final project for Data Science Prep in Moringa School. The research is about "Traffic accidents in Kenya".
 ## Setup/Installation Requirements
